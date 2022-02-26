@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to Doctor Chamberlaines scandalous and faslse [sic] papers.</title>
+            <author>Philalethes.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75419</idno>
+            <idno type="STC">Wing A3357</idno>
+            <idno type="STC">Thomason E605_5</idno>
+            <idno type="STC">Thomason E597_3</idno>
+            <idno type="STC">ESTC R205847</idno>
+            <idno type="EEBO-CITATION">99865099</idno>
+            <idno type="PROQUEST">99865099</idno>
+            <idno type="VID">165673</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75419)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165673)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E605[5], 92:E597[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to Doctor Chamberlaines scandalous and faslse [sic] papers.</title>
+                  <author>Philalethes.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 6: Philalethes.</note>
+                  <note>Annotation on Thomason copy E.605.5: "June. 28"; on copy E.597[3]: 'March 29"; the 49 in imprint date is crossed out and replaced with a "50".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chamberlen, Peter, 1601-1683 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165673:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO DOCTOR CHAMBERLAINES SCANDALOVS AND FASLSE PAPERS.</p>
+            <p>
+               <add>Philalethes K.</add>
+            </p>
+            <figure/>
+            <p>
+               <add>June .28.</add>
+            </p>
+            <p>LONDON, Printed in the year 1649.</p>
+            <pb facs="tcp:165673:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:165673:2"/>
+            <head>An anſwer to Doctor Chamberlaines Scan<g ref="char:EOLhyphen"/>dalous and falſe Papers.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ome men have ſuch an itch to quarrell, that rather then want enemies, they will fight with their own ſhadow; or make them of ſtraw, tear them in peeces, and glory in the conqueſt: amongſt all, that have diſturbed our peace, none have troubled themſelves more to leſſe purpoſe, then that learned Gentleman, Doctor <hi>Peter Chamberlaine,</hi> who to his great re<g ref="char:EOLhyphen"/>nown, as he ſuppoſeth, hath given ample teſtimony of his wit and learning in divers famous two peny volumes, to all poſterity <hi>I</hi> have not ſo much leiſure as to take a particular ſurvay of him, nor his works, nor indeed will it be worth my labour, nor any mans time to read, onely a touch of both, as they come in my way, and conduce to what I have in deſigne,</p>
+            <p>This Doctor <hi>Peter</hi> was born and bred amongſt us in <hi>Black<g ref="char:EOLhyphen"/>friers,</hi> as he tels us in print in one of his papers, extracted from the Ioines of I know not what great French Mounſier, as he proclaimeth to the world in another, with <hi>Glendours</hi> in the welſh Chronicle boaſting of ſtrange meteors and conſtellation at his nativity, none of all which makes him the wiſer man, or better Phyſitian; his Father, for ought I ever heard, was a good honeſt Barber-ſurgeon, &amp; by his knack in midwifery got a plen<g ref="char:EOLhyphen"/>tiful eſtate, which with his art he left to this young gentlman, who ſlipt out of his ſwadlin-clowts into the Doctors chair, by a ſtrange impuls devouring all the arts in an inſtant, got his degree, before the world was aware on't, and at Nineteene was made a very reverend Doctor. I will not uncover his naked<g ref="char:EOLhyphen"/>neſſe, nor give you any particulars of the vain profuſeneſſe of his younger yeers, whereby he ſpent and trifl'd away a conſiderable
+<pb n="2" facs="tcp:165673:3"/>
+eſtate left him, and loſt a very fair way of practiſe, his preſent condition ſufficiently evidencing it, and ſealeth the trueth of that divine ſaying, <hi>he that troubleth his own houſe, ſhall inhe<g ref="char:EOLhyphen"/>rit the winde;</hi> at laſt finding by ſad experience, that his fathers coffers had a bottom, which could not be beaten in time into his beleife, he caſt about, and falls upon ſeverall projects and devices, for the ſupport of his preſent garb and greatnes, and the firſt, if I miſtake not, was that ſame trick of Phyſical Simony, to ſhare in his Apothecarie gains, but ſcorning the poor pedling way of juſtice <hi>Long</hi> in the law, or his Brother <hi>Fludd</hi> in his own art, he maketh him allow him the one half of all he taketh, yet bars all the charge and trouble, as was proved at the bar of the houſe of Commons, in the beginning of the Parliament, as good be a knave for a pound, as a peny; but this deviſe took not, he got a great deale of ſhame, &amp; this trick furthered not his al<g ref="char:EOLhyphen"/>ready decreaſing practiſe, his next was to get himſelf created vi<g ref="char:EOLhyphen"/>car generall of the Midwives in city &amp; ſuburbs, &amp; for the main<g ref="char:EOLhyphen"/>taining a garb, fitting the greatneſſe of this place, he would have a groate for every childe borne within his juriſdiction, for which he would have kept good orders and rules amongſt them, ſet up a lecture, and himſelf a been reader, unfolded the hard places and paſſages, <hi>Aretine</hi> and <hi>Ariſtotles Problems,</hi> and in all things that concerned womens buſines, have been a very rea<g ref="char:EOLhyphen"/>dy neceſſary young man; but the midwives (as moſt women are) being wiſe enough already, ſcorn'd to learn from a man, that had no more beard then themſelves, refuſed ſubjection to him, and ſet up ſome other hand-ſome-handed young phyſikers in the ſame trade, by which means the Doctour his practiſe more and more declin'd, the fool, the porter and ſome coach-horſes are fain to go to graſſe, and himſelf brought to ſuch ſtraights, that invention muſt to work for ſome other device for a ſubſiſtance, which was to go into the <hi>Low-Countreys,</hi> and teach them the art of draining, of caching, ſalting, conditing ſtock-fiſh, new ſtores for young <hi>Fry,</hi> the rare trick of dancing on the high rope, and ſhooting water in a Croſſe-bowe, but for all this no<g ref="char:EOLhyphen"/>thing comes, the butter-boxes liked not his phyſiognomie, and held faſt their money, and the Doctor is fain to returne to his old quarters; whereat his firſt coming allarms the whole kingdom, with his lamentable cry from <hi>Ramah:</hi> children brought to the birth, and none to deliver; complains of want of ſelf love, ſhew<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:165673:3"/>
+how many infants are loſt, for want of his knack, that he will do it upon lower terms then formerly without any grief or pain; tells us he is in great want, brought to his firſt prin<g ref="char:EOLhyphen"/>ciple, and nine children in the bargain, but all this doth nothing neither, in the ſixth therefore he turns independant, joyns with Doctor <hi>Homes,</hi> and for a little while walks very ſoberly, but finding the old blade his Rival in womans matters, he con<g ref="char:EOLhyphen"/>ſpires againſt him, endeavours to throw him out and puts him<g ref="char:EOLhyphen"/>ſelf in the ſaddle, what end was made of that buſines <hi>I</hi> know not, but the Doctor hath quitted thoſe quarters, and now turnd Anabaptiſt; &amp; as <hi>Corah, Dathan,</hi> &amp; <hi>Abiram</hi> wil be famous in ſome congregation, to make way for his advance, like the fencers of old, he reſolves to challenge the moſt famous Maſter of the Science, beaten or not, it skild not, he will bring ſuch judges as ſhall certainly give ſentence for him, or in caſe of ex<g ref="char:EOLhyphen"/>tremity, make ſuch tumults as ſhall turn to his advantage, but to be ſerious a little, he pitches upon old Doctor <hi>Gouge,</hi> and in a letter of <hi>January</hi> 27. deſireth leave to preach in his pulpit, which he calleth ſpeaking in publike, or to diſpute this que<g ref="char:EOLhyphen"/>ſtion in publike, whether is the ſprinkling of infants, an ordi<g ref="char:EOLhyphen"/>nance of God or Man. Doctor <hi>Gouge</hi> returns him anſwer that admitting private men to vent heterodox opinions was not ha<g ref="char:EOLhyphen"/>ſtily to be yeilded unto, but he would adviſe of it, and give an anſwer in convenient time: upon this, this pamphleter thinks he hath got the advantage deſired, and ſends amongſt us in print a moſt vaine unchriſtian like lying letter, in which he begins thus; being converted, I thought it my duty to ſtrengthen my bre<g ref="char:EOLhyphen"/>thren, truly Sir your carriage in this buſines, gives no teſtimony at all of any true reall converſion, there is that notorious pride, imprudent undiſcret boaſting, palpable falſehood, which ſome men even in a naturall condition, would not expreſs, and a man converted would not dare to be guilty of, but he goes on tells us, he had an impulſe of the Spirit, which he at firſt ſtrugled with, and ſo forth; certainly<g ref="char:punc">▪</g> Sir this could not poſſibly be from the ſpirit of God: the fruit of which is love, joy, peace, long ſuf<g ref="char:EOLhyphen"/>fering, gentleneſſe, but the manifeſt works of the fleſh, which are, hatred, variance, emulation, wrath, ſtrife, ſedition, hereſie, deſirous of vain glory, provoking one another; had you been guided in this act by the Spirit of God, how could that falſe aſſertion paſſe from you in print, that to your deſire of reſolution
+<pb n="4" facs="tcp:165673:4"/>
+of the ſprinkling of infants: Doctor <hi>Gouge</hi> ſhould return anſwer, the queſtion was weighty, he would take adviſe in it, when your own letter, ready to be ſhewen to any that deſires it, hath not one tittle that can poſſibly bear any ſuch ſence, but plainly requi<g ref="char:EOLhyphen"/>red leave to ſpeak to us in publike, or that it might be a queſtion between him and you, in a full auditory; whether the ſprinkling of infants were of God or man? and to this; to the buſines of diſputation, he returned that anſwer, knowing how little ſuch diſputes hath profited, how much the Church of God hath been torn by them; how expreſs the ſpirit of God is, not to trouble the weak with vain diſputes; what became of the late diſpute be<g ref="char:EOLhyphen"/>twixt Mr. <hi>Goodwin</hi> and Mr. <hi>Simpſon,</hi> or what one ſingle perſon of either of both opinions, was brought, to the knowledge of the trueth, though managed by men of far greater abilities, then Dr. <hi>Chamberlaine?</hi> tis certain, many mens ſpirits are more im<g ref="char:EOLhyphen"/>bittred by it, and greater diſtance between them and their mem<g ref="char:EOLhyphen"/>bers, then before, to take no notice of the non-ſence in the reſt of the letter, what a ſtrange pride of heart (if it be not a fault in his head, doth that challenge ſhew, when Dr. <hi>Gouge,</hi> Mr. <hi>Caſe,</hi> Mr. <hi>Ca<g ref="char:EOLhyphen"/>lamy,</hi> Mr. <hi>Marſhal,</hi> Mr. <hi>Goodwin,</hi> nay, and the whole aſſembly are fooliſhly or childiſhly dared into the conteſt, all ſerious men and ſober Chriſtians muſt pity you, as a man diſtemperd in mind, or laugh at you for your vanity<hi>:</hi> thers good counſell in the pro<g ref="char:EOLhyphen"/>verbs, which I believe theſe wiſe, Godly, learned men, will make uſe of in this caſe; but al this while, why come you not to D. <hi>Gouge</hi> with a friend, as you are offerd, when certainly you may have ful ſatisfaction in that or any other thing you deſire; we cannot but beleeve, thats not deſired, otherwiſe you would have come to him at firſt before you troubled your ſelf in Print, or at leaſt you would have come, now invited, tis poſſibly you may believe amiſſe in what you hold about ſprinkling infants (very wiſe god<g ref="char:EOLhyphen"/>ly men have, and you your ſelf in other things, even in your own profeſſion, as I may have occaſion to ſhew, if ye continue trouble<g ref="char:EOLhyphen"/>ſome:) and then a private ſair debate were beſt to your ſelf, you know what the wiſe man ſaith, <hi>Prov.</hi> 14. &amp; 33 13. 16. and in your own art, he that ſhould ſet forth himſelf with ſuch high flown bragging language, proclaming to the world what know<g ref="char:EOLhyphen"/>ledge, rare ſecrets he hath got, ſtrange cures he can do, would be counted an Empyrick, a mountebanke, an impoſtor, and few wiſe men would have to do with ſuch a one, me thinks the reſpect
+<pb n="5" facs="tcp:165673:4"/>
+due to Dr. <hi>Gouges</hi> yeers, his piety, his learning, might have kept you from theſe uncivil, unchriſtian declamations, vain, idle ſugge<g ref="char:EOLhyphen"/>ſtions; weak and fooliſh inſinuations; what is the 21. &amp; 25. of <hi>Matthew</hi> pertinent in this caſe, or to your purpoſe, the prieſts there came to enſnare our Saviour Chriſt, with this queſtion, by what authority doſt thou theſe things? who knowing their hearts, and their wicked deſigne; interrogates them thus, the baptiſm of <hi>John,</hi> whether was it of heaven, or of men?</p>
+            <p>Dr. <hi>Chamberlaine</hi> Craves leave to vent his unſound opinion concerning Baptiſme, in Dr. <hi>Gouge</hi> his congregation, in one pa<g ref="char:EOLhyphen"/>per, and a reſolution to this queſtion, whether is the ſprinkling of infants an ordinance of God or Man, in another; Dr. <hi>Gouge</hi> returns anſwer to the firſt, that he will adviſe on it, to the ſe<g ref="char:EOLhyphen"/>cond, that if he pleaſe to come to him, he will endeavour to give him ſatisfaction, what can that text make for you, unleſs you think the Doctor fears you, as the text ſaith, the Prieſts did the multitude, certainly Sir you are not ſo terrible yet, and I believe you will not be much higher neither, but becauſe I believe you will hardly finde leaſure to come to Dr. <hi>Gouge,</hi> knowing that tumults and branglings muſt be your beſt weapons, which you will want if you come ſingle, or accompanied with a few, con<g ref="char:EOLhyphen"/>ſider ſeriouſly of theſe following arguments for baptizing in<g ref="char:EOLhyphen"/>fants, letting ſprinkling alone till I have more leaſure.</p>
+            <p>Whomſoever Jeſus Chriſt willeth to be brought to himſelf, muſt not be kept from Baptiſme, but Jeſus Chriſt willeth little children to be brought to himſelf, therefore little children muſt not be kept from Baptiſme.</p>
+            <p>The <hi>Major</hi> is undeniable, the <hi>Minor</hi> is clear from <hi>Matt.</hi> 19. 14. <hi>Mark</hi> 10. 14. <hi>Luke</hi> 18. 15. 16.</p>
+            <p>To whomſoever the kingdom of heaven, and the covenant of grace belongeth, to them the ſeals of the Covenant belong<g ref="char:EOLhyphen"/>ed, but the kingdom of heaven and Covenant of grace be<g ref="char:EOLhyphen"/>long unto infants, <hi>Ergo.</hi>
+            </p>
+            <p>The <hi>Major</hi> is not to be denied, the <hi>Minor</hi> is proved <hi>Gen.</hi> 17. 7 <hi>Acts.</hi> 2. 39. Theſe good old arguments I could never ſee ſolidly confuted yet.</p>
+            <p>But I will end all with a word or two of adviſe, to entreate you to reflect ſeriouſly upon your own heart, and conſider whe<g ref="char:EOLhyphen"/>ther ſome corrupt intereſt have not ſteered you in the buſines, whether the Scripture gives any allowance, for ſuch a kinde of
+<pb n="6" facs="tcp:165673:5"/>
+deportment for a man in your ſtation, towards ſuch an ancient, reve<g ref="char:EOLhyphen"/>rend, Pious Miniſter, whether your misimploying ſo many for the ſpreading your pamphlets on the Sabbath day, be according to the rule of Gods word, whether your diſturbing us attending the ordi<g ref="char:EOLhyphen"/>nances of Jeſus Chriſt, your imprudence following us to the very Sacrament, can at all ſuite with the profeſſion of a Chriſtian, or a ſober man; if they do not, as certainly you muſt needs judge, if you be true to your ſelf, take ſhame to your ſelf, and give God the glory, in an humble Chriſtian confeſsion, of, and repentance for, this your foul offence, and laſtly think ſadly upon the heavy judgments God hath very lately laid upon ſome of your predeceſſors; to inſtance but in two, for I wil not ſtirr in the puddle of the anabaptiſts of <hi>Munſter,</hi> the, til then, unheard of impieties of whom, much troubled thoſe parts of <hi>Germany,</hi> and interrupted the reformation begun by <hi>Lu<g ref="char:EOLhyphen"/>ther;</hi> to look no further then yeſterday, upon ſome that very lately trode your ſteps<hi>:</hi> the firſt ſhall be Mr. <hi>Cops,</hi> a man that for a long time pretended both to learning, reaſon, and Religion, and for ſome time, as I am from very good hands informed, walked very ſtrict<g ref="char:EOLhyphen"/>ly, til he firſt fell off from ſubmitting to Church Government, after which he ſuddainly paſsd through all the forms now in faſhion, to yours, to the holding thoſe Anabaptiſtical opinions, wherewith you and your predeceſſors have wherever you have had power, never been quiet till you turned both Church and State into a flame, if not into aſhes, but he ſtayed not long with you neither, but the next ſtep brought him into that deep Abyſs, from whence he vo<g ref="char:EOLhyphen"/>mits out in print to the world, thoſe horrid blaſphemies and im<g ref="char:EOLhyphen"/>pieties, then which the world never ſaw more deſperate, maintain<g ref="char:EOLhyphen"/>ning ſwearing, uncleanneſſe <hi>in terminis</hi> to be lawfull, beſides other poſitions, which no modeſt Chriſtian care can without aſtoniſh<g ref="char:EOLhyphen"/>ment hear or read.</p>
+            <p>The other is the late matron of the <hi>Savoy,</hi> whom the hand of juſtice in ſome meaſure met with lately, ſhe likewiſe not long ſince walked under the ſame di<g ref="char:EOLhyphen"/>ſpenſation with you, the Spirit of giddineſſe poſſeſsing her, ſhe as ſuddainly as the former ran greedily into all manner of uncleanneſſe, and became hardened through the deceitfulnes of ſin, never reſted till ſhe became a hiſsing and a by<g ref="char:EOLhyphen"/>word even to the meaneſt of the people. Certainly Sir you have no promiſe of ſupport longer, then you walk in Gods way, which as certainly you are out of at preſent, if you and your actions be brought to the ballance of the ſanctuary, how ſad your condition will be, if it ſhould pleaſe God, to leave you to your ſelf the former preſidents with many more then I have leaſure or deſire to inſtance in, may in ſome meaſure make evident; it concerneth you, as much as your eternal welfare is worth, to be true to your own heart, not to trifle away your precious time in vain wrangling, and diſputations, but to make appear to the world, the hope that is in you, by a ſober godly life and converſation, to direct to you which, you have a ſure word of prophecie, to which, you wil do wel, if you take heed.</p>
+            <closer>
+               <signed>Philalethes.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
